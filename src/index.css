@@ -1,0 +1,20 @@
+@import "tailwindcss";
+.m-input{
+    border-radius: 30px;
+    border: 2px solid purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.svg{
+    margin: 0;
+    padding: 0;
+    width: 24px;
+    
+}
+.grad{
+    background-image: linear-gradient(rgb(191, 0, 255), rgba(255, 0, 0, 0.527));
+    color: transparent;
+    background-clip: text;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
